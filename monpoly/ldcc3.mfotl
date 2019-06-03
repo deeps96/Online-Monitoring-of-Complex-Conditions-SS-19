@@ -1,0 +1,1 @@
+FORALL user, p, d. delete(user, 'db3', p, d) EQUIV ONCE[0, 1] delete(user, 'db2', p, d)

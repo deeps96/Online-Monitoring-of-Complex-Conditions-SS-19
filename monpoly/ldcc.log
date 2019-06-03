@@ -1,0 +1,5 @@
+@10
+delete(script3, db2, 10000, 20)
+
+@20
+delete(script2, db2, 10000, 10)
