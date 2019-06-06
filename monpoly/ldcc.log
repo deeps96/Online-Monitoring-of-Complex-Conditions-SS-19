@@ -1,5 +1,14 @@
 @10
-delete(script3, db2, 10000, 20)
+delete(bob, db2, 2, 10)
 
-@20
-delete(script2, db2, 10000, 10)
+@60000
+delete(script2, db3, 10000, 10)
+
+@60001
+delete(script3, db3, 10000, 20)
+
+@100000
+insert(anna, db1, 1, 11)
+
+@100000
+insert(script10, db2, 0, 11)

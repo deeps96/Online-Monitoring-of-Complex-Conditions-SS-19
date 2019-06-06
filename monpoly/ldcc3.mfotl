@@ -1,1 +1,2 @@
-FORALL user, p, d. delete(user, 'db3', p, d) EQUIV ONCE[0, 1] delete(user, 'db2', p, d)
+(delete(user, 'db3', p, d) IMPLIES EXISTS user2, p2, d2. ONCE[0, 60000] delete(user2, 'db2', p2, d2) AND d = d2) AND
+(delete(user, 'db2', p, d) IMPLIES EXISTS user2, p2, d2. EVENTUALLY[0, 60000] delete(user2, 'db3', p2, d2) AND d = d2)
