@@ -11,17 +11,17 @@ def parseEvent(line):
         event[keyValue[0]] = keyValue[1].rstrip("\n\r")
     return event
 
-dbDescriptor = lambda event: 'user=' + event['u'] + ', database=' + event['db'] + ', p=' + event['p'] + ', d=' + event['d']
+dbDescriptor = lambda event: event['u'] + ', ' + event['db'] + ', ' + event['p'] + ', ' + event['d']
 eventDescriptor = {
     'insert': dbDescriptor,
     'select': dbDescriptor,
     'update': dbDescriptor,
     'delete': dbDescriptor,
-    'script_start': lambda event: 'script=' + event['s'],
-    'script_end': lambda event: 'script=' + event['s'],
-    'script_md5': lambda event: 'script=' + event['s'] + ', md5=' + event['md5'],
-    'commit': lambda event: 'url=' + event['url'] + ', revision=' + event['rev'],
-    'script_svn': lambda event: 'script=' + event['s'] + ', status=' + event['status'] + ', url=' + event['url'] + ', revision1=' + event['rev1'] + ', revision2=' + event['rev2'],
+    'script_start': lambda event: event['s'],
+    'script_end': lambda event: event['s'],
+    'script_md5': lambda event: event['s'] + ', ' + event['md5'],
+    'commit': lambda event: event['url'] + ', ' + event['rev'],
+    'script_svn': lambda event: event['s'] + ', ' + event['status'] + ', ' + event['url'] + ', ' + event['rev1'] + ', ' + event['rev2'],
 }
     
 
