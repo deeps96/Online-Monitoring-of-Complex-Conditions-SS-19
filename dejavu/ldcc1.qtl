@@ -1,3 +1,4 @@
-pred delete(user, db, p, d)
+pred delete(timestamp, user, db, p, d)
 
-prop p: Forall user . Forall db . Forall p . Forall d . delete(user, db, p, d) & (db="db2") -> (user="script2")
+prop p: Forall timestamp . Forall user . Forall db . Forall p . Forall d .
+delete(timestamp, user, db, p, d) & (db="db2") -> (user="script2")
