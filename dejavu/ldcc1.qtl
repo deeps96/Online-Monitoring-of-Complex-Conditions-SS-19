@@ -1,4 +1,13 @@
-pred delete(timestamp, user, db, p, d)
+pred
+  insert(timestamp, user, db, p, d),
+  select(timestamp, user, db, p, d),
+  update(timestamp, user, db, p, d),
+  delete(timestamp, user, db, p, d),
+  script_start(timestamp, script),
+  script_end(timestamp, script),
+  script_md5(timestamp, script, md5),
+  commit(timestamp, url, revision),
+  script_svn(timestamp, script, status, url, revision1, revision2)  
 
 prop p: Forall timestamp . Forall user . Forall db . Forall p . Forall d .
 delete(timestamp, user, db, p, d) & (db="db2") -> (user="script2")
