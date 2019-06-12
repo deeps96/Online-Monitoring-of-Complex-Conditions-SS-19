@@ -1,4 +1,4 @@
-insert(user, 'db1', p, d) IMPLIES
-(EXISTS user2, p2, d2. EVENTUALLY[0, 60000] insert(user2, 'db2', p2, d2) AND d = d2)
+(EXISTS user. insert(user, 'db1', p, d) AND NOT user = "[unknown]" AND NOT user = "None" AND not user = "triggers" AND not user = "script") IMPLIES
+((EXISTS user2, p2, d2. EVENTUALLY[0, 60000] insert(user2, 'db2', p2, d2) AND d = d2)
 OR
-(EXISTS user2, p2, d2. EVENTUALLY[0, 60000] delete(user2, 'db1', p2, d2) AND d = d2)
+(EXISTS user2, p2, d2. EVENTUALLY[0, 60000] delete(user2, 'db1', p2, d2) AND d = d2))
