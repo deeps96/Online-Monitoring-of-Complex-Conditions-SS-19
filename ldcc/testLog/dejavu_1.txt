@@ -1,0 +1,46 @@
+
+BDD bits per variable = 20
+
+----------------
++++ warning +++:  unused events: script_end,commit,insert,script_svn,script_start,select,script_md5,update
+
+--- Elapsed monitor synthesis time: 0.625s
+
+
+
+Compiling synthesized monitor: ...
+
+Verifying trace: ...
+
+*** Property p violated on event number 8:
+
+#########################################################
+#### delete(1560674084,evilScript,db2,none,234567)
+#########################################################
+
+
+*** Property p violated on event number 16:
+
+#########################################################
+#### delete(1560933402,evilScript2,db2,none,658472)
+#########################################################
+
+Processed 16 events
+
+==================
+  Event Counts:
+------------------
+  script_end   : 0 event did not occur in trace
+  commit       : 0 event did not occur in trace
+  insert       : 7
+  script_svn   : 0 event did not occur in trace
+  script_start : 0 event did not occur in trace
+  select       : 0 event did not occur in trace
+  script_md5   : 0 event did not occur in trace
+  delete       : 9
+  update       : 0 event did not occur in trace
+==================
+
+
+
+- Garbage collector was not activated
