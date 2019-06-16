@@ -1,1 +1,1 @@
-delete(user, 'db3', p, d) IMPLIES (EXISTS user2, p2, d2. ONCE[0, 60000] delete(user2, 'db2', p2, d2) AND d2 = d)
+delete(user, 'db3', p, d) IMPLIES (EXISTS user2, p2, d2. ONCE[0, 60] delete(user2, 'db2', p2, d2) AND d2 = d)
