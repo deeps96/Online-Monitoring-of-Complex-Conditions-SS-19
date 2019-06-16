@@ -1,0 +1,16 @@
+
+BAD (2 - not deleted nor inserted)
+
+BAD (2 - inserted too late - see 1560933367)
+BAD (2 - deleted too late - see 1560933368)
+
+
+BAD (1)
+
+BAD (3 - was not deleted from db2 before)
+
+BAD (3 - was deleted more than one minute ago)
+
+
+
+BAD (1)

@@ -1,0 +1,5 @@
+@1560674086. (time point 9): (evilScript,none,345678)
+@1560674173. (time point 11): (script3,none,234567)
+===STATS=== time: 0
+===STATS=== times: (u:0 s:0 t:0)
+===STATS=== mem: 19372 kB
