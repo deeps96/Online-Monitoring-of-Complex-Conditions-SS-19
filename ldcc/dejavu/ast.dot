@@ -1,0 +1,21 @@
+digraph G {
+  0 [shape=octagon, color=red, label="0 : Forall timestamp . Forall user . Forall db . Forall p . Forall d . delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  1 [shape=box, label="1 : Forall user . Forall db . Forall p . Forall d . delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  2 [shape=box, label="2 : Forall db . Forall p . Forall d . delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  3 [shape=box, label="3 : Forall p . Forall d . delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  4 [shape=box, label="4 : Forall d . delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  5 [shape=box, label="5 : delete(timestamp,user,db,p,d) & (db = ''db2'') -> (user = ''script2'')"]
+  6 [shape=box, label="6 : delete(timestamp,user,db,p,d) & (db = ''db2'')"]
+  7 [shape=box, label="7 : delete(timestamp,user,db,p,d)"]
+  8 [shape=box, label="8 : db = ''db2''"]
+  6 -> 7
+  6 -> 8
+  9 [shape=box, label="9 : user = ''script2''"]
+  5 -> 6
+  5 -> 9
+  4 -> 5
+  3 -> 4
+  2 -> 3
+  1 -> 2
+  0 -> 1
+}
