@@ -1,16 +1,16 @@
-
-BAD (2 - not deleted nor inserted)
-
-BAD (2 - inserted too late - see 1560933367)
-BAD (2 - deleted too late - see 1560933368)
-
-
-BAD (1)
-
-BAD (3 - was not deleted from db2 before)
-
-BAD (3 - was deleted more than one minute ago)
-
-
-
-BAD (1)
+1560587767 - 
+1560587768 - BAD (2 - not deleted nor inserted)
+1560587769 - 
+1560587770 - BAD (2 - inserted too late - see 1560933367)
+1560587771 - BAD (2 - deleted too late - see 1560933368)
+1560674082 - 
+1560674083 - 
+1560674084 - BAD (1)
+1560674085 - 
+1560674086 - BAD (3 - was not deleted from db2 before)
+1560674087 - 
+1560674173 - BAD (3 - was deleted more than one minute ago)
+1560691062 - 
+1560933367 - 
+1560933368 - 
+1560933402 - BAD (1)
