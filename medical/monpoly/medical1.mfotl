@@ -1,0 +1,11 @@
+(FORALL pat_id .
+(EXISTS d_id .
+dental(d_id) AND dental_on(d_id, pat_id))
+IMPLIES
+(EXISTS p_id, a_id .
+ONCE
+  pump(p_id) AND
+  pump_on(p_id, pat_id) AND
+  action(a_id) AND
+  action_by(a_id, p_id) AND
+  action_type(a_id, 'antibiotics')))
