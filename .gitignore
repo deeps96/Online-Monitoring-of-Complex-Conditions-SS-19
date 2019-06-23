@@ -1,2 +1,5 @@
 Notebooks/.ipynb_checkpoints/
 .DS_Store
+TraceMonitor.scala
+ast.dot
+dejavu-results
