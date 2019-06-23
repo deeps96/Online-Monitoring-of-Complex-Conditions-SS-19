@@ -1,0 +1,60 @@
+
+BDD bits per variable = 20
+
+----------------
++++ warning +++:  unused events: patient_id,patient
+
+--- Elapsed monitor synthesis time: 0.603s
+
+
+
+Compiling synthesized monitor: ...
+
+Verifying trace: ...
+
+*** Property before violated on event number 31:
+
+#########################################################
+#### dental_on(2,2)
+#########################################################
+
+
+*** Property before violated on event number 32:
+
+#########################################################
+#### dental_on(3,3)
+#########################################################
+
+
+*** Property before violated on event number 33:
+
+#########################################################
+#### dental_on(4,4)
+#########################################################
+
+
+*** Property before violated on event number 34:
+
+#########################################################
+#### dental_on(5,5)
+#########################################################
+
+Processed 35 events
+
+==================
+  Event Counts:
+------------------
+  dental_on   : 5
+  patient_id  : 0 event did not occur in trace
+  action_by   : 3
+  dental      : 5
+  pump        : 5
+  pump_on     : 4
+  action_type : 3
+  action      : 5
+  patient     : 5
+==================
+
+
+
+- Garbage collector was not activated
