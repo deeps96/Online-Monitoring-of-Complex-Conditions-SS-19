@@ -1,0 +1,11 @@
+patient,1
+pump,1
+action,1
+dental,1
+patient_id,1,Bob
+pump_on,1,1
+action_by,1,1
+action_type,1,antibiotics
+dental_on,1,1
+dental,2
+dental_on,2,2
