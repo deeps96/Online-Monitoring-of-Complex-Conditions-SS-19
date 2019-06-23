@@ -1,0 +1,32 @@
+
+BDD bits per variable = 20
+
+----------------
++++ warning +++:  unused events: patient_id,patient
+
+--- Elapsed monitor synthesis time: 0.634s
+
+
+
+Compiling synthesized monitor: ...
+
+Verifying trace: ...
+Processed 90090 events
+
+==================
+  Event Counts:
+------------------
+  dental_on   : 10010
+  patient_id  : 10010
+  action_by   : 10010
+  dental      : 10010
+  pump        : 10010
+  pump_on     : 10010
+  action_type : 10010
+  action      : 10010
+  patient     : 10010
+==================
+
+
+
+- Garbage collector was not activated
