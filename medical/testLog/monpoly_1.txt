@@ -1,0 +1,7 @@
+@6. (time point 30): true
+@7. (time point 31): true
+@8. (time point 32): true
+@9. (time point 33): true
+===STATS=== time: 0
+===STATS=== times: (u:0 s:0 t:0)
+===STATS=== mem: 19372 kB
