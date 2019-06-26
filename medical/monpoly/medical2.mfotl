@@ -1,39 +1,35 @@
 (FORALL pat_id .
   (EXISTS d_id .
-  dental(d_id) AND dental_on(d_id, pat_id))
+  dental(d_id) AND (ONCE dental_on(d_id, pat_id)))
   IMPLIES
   (EXISTS p_id, a_id .
     (
-      ONCE
-        pump(p_id) AND
-        pump_on(p_id, pat_id) AND
-        action(a_id) AND
-        action_type(a_id, 'antibiotics') AND
-        action_by(a_id, p_id)
+      ((ONCE pump(p_id)) AND
+      (ONCE pump_on(p_id, pat_id)) AND
+      (ONCE action(a_id)) AND
+      (ONCE action_type(a_id, 'antibiotics')) AND
+      (ONCE action_by(a_id, p_id)))
       AND NOT (
-        EVENTUALLY[0, 7200]
-          pump(p_id) AND
-          pump_on(p_id, pat_id) AND
-          action(a_id) AND
-          action_type(a_id, 'antibiotics') AND
-          action_by(a_id, p_id)
+        (EVENTUALLY[0, 7200] pump(p_id)) AND
+        (EVENTUALLY[0, 7200] pump_on(p_id, pat_id)) AND
+        (EVENTUALLY[0, 7200] action(a_id)) AND
+        (EVENTUALLY[0, 7200] action_type(a_id, 'antibiotics')) AND
+        (EVENTUALLY[0, 7200] action_by(a_id, p_id))
       )
     )
     OR
     (
-      EVENTUALLY[0, 7200]
-        pump(p_id) AND
-        pump_on(p_id, pat_id) AND
-        action(a_id) AND
-        action_type(a_id, 'antibiotics') AND
-        action_by(a_id, p_id)
+      ((EVENTUALLY[0, 7200] pump(p_id)) AND
+      (EVENTUALLY[0, 7200] pump_on(p_id, pat_id)) AND
+      (EVENTUALLY[0, 7200] action(a_id)) AND
+      (EVENTUALLY[0, 7200] action_type(a_id, 'antibiotics')) AND
+      (EVENTUALLY[0, 7200] action_by(a_id, p_id)))
       AND NOT (
-        ONCE
-          pump(p_id) AND
-          pump_on(p_id, pat_id) AND
-          action(a_id) AND
-          action_type(a_id, 'antibiotics') AND
-          action_by(a_id, p_id)
+        (ONCE pump(p_id)) AND
+        (ONCE pump_on(p_id, pat_id)) AND
+        (ONCE action(a_id)) AND
+        (ONCE action_type(a_id, 'antibiotics')) AND
+        (ONCE action_by(a_id, p_id))
       )
     )
   )
