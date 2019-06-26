@@ -1,0 +1,3 @@
+@13 - 3 - antibiotics before and after
+@17 - 4 - no antibiotics at all
+@18 - 5 - antibiotics too late
