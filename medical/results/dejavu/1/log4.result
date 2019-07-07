@@ -4,7 +4,7 @@ BDD bits per variable = 20
 ----------------
 +++ warning +++:  unused events: patient_id,patient
 
---- Elapsed monitor synthesis time: 0.601s
+--- Elapsed monitor synthesis time: 0.617s
 
 
 
