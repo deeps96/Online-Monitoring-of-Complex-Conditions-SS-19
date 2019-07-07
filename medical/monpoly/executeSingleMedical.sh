@@ -2,12 +2,12 @@
 
 usage()
 {
-  echo "usage: executeMedical [[[-l] [-s] [-p] [-i]] | [-h]]"
-  echo "  -h\t--help\t\tDisplay this usage description"
-  echo "  -i\t--identifier\tUnique string to identify execution"
-  echo "  -l\t--log\t\tMedical case: 1-9"
-  echo "  -p\t--property\t1 or 2"
-  echo "  -s\t--script\te.g. monpoly1test.mfotl"
+  echo -e "usage: executeMedical [[[-l] [-s] [-p] [-i]] | [-h]]"
+  echo -e "  -h\t--help\t\tDisplay this usage description"
+  echo -e "  -i\t--identifier\tUnique string to identify execution"
+  echo -e "  -l\t--log\t\tMedical case: 1-9"
+  echo -e "  -p\t--property\t1 or 2"
+  echo -e "  -s\t--script\te.g. monpoly1test.mfotl"
 }
 
 if [ $# != 8 ]; then

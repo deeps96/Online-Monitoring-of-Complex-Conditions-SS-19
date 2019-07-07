@@ -4,10 +4,10 @@ IDENTIFIER=`cat /dev/urandom | tr -dc 'a-z0-9' | fold -w 8 | head -n 1`
 
 usage()
 {
-  echo "usage: executeMedical [[[-s] [-p]] | [-h]]"
-  echo "  -h\t--help\t\tDisplay this usage description"
-  echo "  -p\t--property\t1 or 2"
-  echo "  -s\t--script\te.g. monpoly1test.mfotl"
+  echo -e "usage: executeMedical [[[-s] [-p]] | [-h]]"
+  echo -e "  -h\t--help\t\tDisplay this usage description"
+  echo -e "  -p\t--property\t1 or 2"
+  echo -e "  -s\t--script\te.g. monpoly1test.mfotl"
 }
 
 if [ $# != 4 ]; then
@@ -33,6 +33,8 @@ while [ "$1" != "" ]; do
 done
 
 echo "Identifier: $IDENTIFIER"
+
+touch $IDENTIFIER\_$SCRIPT_TITLE
 
 for l in {1..9}
 do
