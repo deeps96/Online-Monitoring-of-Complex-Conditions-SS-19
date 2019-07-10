@@ -38,5 +38,5 @@ while [ "$1" != "" ]; do
   shift
 done
 
-monpoly -sig /root/OM/OM-git/medical/monpoly/medical.sig -formula /root/OM/OM-git/medical/monpoly/$SCRIPT_TITLE -negate -log /root/OM/OM-git/medical/logs/monpoly/$LOG_NUMBER.log -stats -mem > /root/OM/OM-git/medical/results/monpoly/$PROPERTY_NUMBER/log$LOG_NUMBER\_$IDENTIFIER.result
+monpoly -sig /root/OM/OM-git/medical/monpoly/medical.sig -formula /root/OM/OM-git/medical/monpoly/$SCRIPT_TITLE -negate -log /root/OM/OM-git/medical/logs/monpoly/$LOG_NUMBER.log -stats -mem > /root/OM/OM-git/medical/results/monpoly/$PROPERTY_NUMBER/$IDENTIFIER\_log_$LOG_NUMBER.result
 
