@@ -36,6 +36,8 @@ echo "Identifier: $IDENTIFIER"
 
 touch $IDENTIFIER\_$SCRIPT_TITLE
 
+pidstat -C monpoly -d -r -H -h -p ALL 1 > $IDENTIFIER.measurement &
+
 for l in {1..9}
 do
   echo "Checking log $l"
