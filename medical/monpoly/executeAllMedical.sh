@@ -44,3 +44,5 @@ do
   ./executeSingleMedical.sh -i $IDENTIFIER -l $l -p $PROPERTY_NUMBER -s $SCRIPT_TITLE
 done
 
+kill -s TERM `pgrep pidstat`
+
