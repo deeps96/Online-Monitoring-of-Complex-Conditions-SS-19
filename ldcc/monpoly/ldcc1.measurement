@@ -1,0 +1,1891 @@
+Linux 4.15.0-51-generic (ubuntu-OM) 	07/21/19 	_x86_64_	(1 CPU)
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735019      0     18200    874.00      6.00   16232    5892   0.29  18376.00      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735020      0     18200     50.50      0.00   16232    6152   0.30  16475.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735021      0     18200     47.52      0.00   16232    6416   0.31  16601.98      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735022      0     18200      0.00      0.00   16232    6416   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735023      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735024      0     18200      0.00      0.00   16232    6416   0.31  15515.15      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735025      0     18200      0.00      0.00   16232    6416   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735026      0     18200      0.00      0.00   16232    6416   0.31  15903.03      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735027      0     18200      0.00      0.00   16232    6416   0.31  14954.46      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735028      0     18200      0.00      0.00   16232    6416   0.31  16549.49      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735029      0     18200      0.00      0.00   16232    6416   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735030      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735031      0     18200      0.00      0.00   16232    6416   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735032      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735033      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735034      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735035      0     18200      0.00      0.00   16232    6416   0.31  17583.84      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735036      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735037      0     18200      0.00      0.00   16232    6416   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735038      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735039      0     18200      0.00      0.00   16232    6416   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735040      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735041      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735042      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735043      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735044      0     18200      0.00      0.00   16232    6416   0.31  17362.38      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735045      0     18200      0.00      0.00   16232    6416   0.31  17583.84      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735046      0     18200      0.00      0.00   16232    6416   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735047      0     18200      0.00      0.00   16232    6416   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735048      0     18200      0.00      0.00   16232    6416   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735049      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735050      0     18200      0.00      0.00   16232    6416   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735051      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735052      0     18200      0.00      0.00   16232    6416   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735053      0     18200      0.00      0.00   16232    6416   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735054      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735055      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735056      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735057      0     18200      0.00      0.00   16232    6416   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735058      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735059      0     18200      0.00      0.00   16232    6416   0.31  17713.13      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735060      0     18200      0.00      0.00   16232    6416   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735061      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735062      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735063      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735064      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735065      0     18200      0.00      0.00   16232    6416   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735066      0     18200      0.00      0.00   16232    6416   0.31  16256.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735067      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735068      0     18200      0.00      0.00   16232    6416   0.31  17489.11      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735069      0     18200      0.00      0.00   16232    6416   0.31  17632.65      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735070      0     18200      0.00      0.00   16232    6416   0.31  16982.18      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735071      0     18200      0.00      0.00   16232    6416   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735072      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735073      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735074      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       4  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735075      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735076      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735077      0     18200      0.00      0.00   16232    6416   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735078      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735079      0     18200      0.00      0.00   16232    6416   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735080      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735081      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735082      0     18200      0.00      0.00   16232    6416   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735083      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735084      0     18200      0.00      0.00   16232    6416   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735085      0     18200      0.00      0.00   16232    6416   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735086      0     18200      0.00      0.00   16232    6416   0.31  15644.44      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735087      0     18200      0.00      0.00   16232    6416   0.31  16601.98      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735088      0     18200      0.00      0.00   16232    6416   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735089      0     18200      0.00      0.00   16232    6416   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735090      0     18200      0.00      0.00   16232    6416   0.31  15841.58      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735091      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735092      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735093      0     18200      0.00      0.00   16232    6416   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735094      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735095      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735096      0     18200      0.00      0.00   16232    6416   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735097      0     18200      0.00      0.00   16232    6416   0.31  15616.00      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735098      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735099      0     18200      0.00      0.00   16232    6416   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735100      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735101      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735102      0     18200      0.00      0.00   16232    6416   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735103      0     18200      0.00      0.00   16232    6416   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735104      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735105      0     18200      0.00      0.00   16232    6416   0.31  16290.91      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735106      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735107      0     18200      0.00      0.00   16232    6416   0.31  16475.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735108      0     18200      0.00      0.00   16232    6416   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735109      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735110      0     18200      0.00      0.00   16232    6416   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735111      0     18200      0.00      0.00   16232    6416   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735112      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735113      0     18200      0.00      0.00   16232    6416   0.31  16161.62      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735114      0     18200      0.00      0.00   16232    6416   0.31  15588.12      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735115      0     18200      0.00      0.00   16232    6416   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735116      0     18200      0.00      0.00   16232    6416   0.31  14720.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735117      0     18200      0.00      0.00   16232    6416   0.31  15714.85      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735118      0     18200      0.00      0.00   16232    6416   0.31  17325.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735119      0     18200      0.00      0.00   16232    6416   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735120      0     18200      0.00      0.00   16232    6416   0.31  15841.58      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735121      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735122      0     18200      0.00      0.00   16232    6416   0.31  16549.49      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735123      0     18200      0.00      0.00   16232    6416   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735124      0     18200      0.00      0.00   16232    6416   0.31  15616.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735125      0     18200      0.00      0.00   16232    6416   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735126      0     18200      0.00      0.00   16232    6416   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735127      0     18200      2.00      2.00   16232    6416   0.31  16776.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735128      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735129      0     18200      0.00      0.00   16232    6416   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735130      0     18200      0.00      0.00   16232    6416   0.31  16161.62      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735131      0     18200      0.00      0.00   16232    6416   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735132      0     18200      0.00      0.00   16232    6416   0.31  14574.26      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735133      0     18200      0.00      0.00   16232    6416   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735134      0     18200      0.00      0.00   16232    6416   0.31  16420.20      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735135      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735136      0     18200      0.00      0.00   16232    6416   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735137      0     18200      0.00      0.00   16232    6416   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735138      0     18200      0.00      0.00   16232    6416   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735139      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735140      0     18200      0.00      0.00   16232    6416   0.31  15104.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735141      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735142      0     18200      0.00      0.00   16232    6416   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735143      0     18200      0.00      0.00   16232    6416   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735144      0     18200      0.00      0.00   16232    6416   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735145      0     18200      0.00      0.00   16232    6416   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735146      0     18200      0.00      0.00   16232    6416   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735147      0     18200      0.00      0.00   16232    6416   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735148      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735149      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735150      0     18200      0.00      0.00   16232    6416   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735151      0     18200      0.00      0.00   16232    6416   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735152      0     18200      0.00      0.00   16232    6416   0.31  15773.74      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735153      0     18200      0.00      0.00   16232    6416   0.31  15588.12      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735154      0     18200      0.00      0.00   16232    6416   0.31  16032.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735155      0     18200      0.00      0.00   16232    6416   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735156      0     18200      0.00      0.00   16232    6416   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735157      0     18200      0.00      0.00   16232    6416   0.31  16161.62      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735158      0     18200      0.00      0.00   16232    6416   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735159      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735160      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735161      0     18200      0.00      0.00   16232    6416   0.31  16808.08      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735162      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735163      0     18200      0.00      0.00   16232    6416   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735164      0     18200      0.00      0.00   16232    6416   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735165      0     18200      0.00      0.00   16232    6416   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735166      0     18200      0.00      0.00   16232    6416   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735167      0     18200      0.00      0.00   16232    6416   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735168      0     18200      0.00      0.00   16232    6416   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735169      0     18200      0.00      0.00   16232    6416   0.31  16095.05      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735170      0     18200      0.00      0.00   16232    6416   0.31  16549.49      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735171      0     18200      0.00      0.00   16232    6416   0.31  14976.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735172      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735173      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735174      0     18200      0.00      0.00   16232    6416   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735175      0     18200      0.00      0.00   16232    6416   0.31  17325.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735176      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735177      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735178      0     18200      0.00      0.00   16232    6416   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735179      0     18200      0.00      0.00   16232    6416   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735180      0     18200      0.00      0.00   16232    6416   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735181      0     18200      0.00      0.00   16232    6416   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735182      0     18200      0.00      0.00   16232    6416   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735183      0     18200      0.00      0.00   16232    6416   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735184      0     18200      0.00      0.00   16232    6416   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735185      0     18200      0.00      0.00   16232    6416   0.31  17362.38      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735186      0     18200      0.00      0.00   16232    6416   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735187      0     18200      0.00      0.00   16232    6416   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735188      0     18200      0.00      0.00   16232    6416   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735189      0     18200      0.00      0.00   16232    6416   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735190      0     18200      0.00      0.00   16232    6416   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735191      0     18200      0.00      0.00   16232    6416   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735192      0     18200      0.00      0.00   16232    6416   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735193      0     18200      0.00      0.00   16232    6416   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735194      0     18200      0.00      0.00   16232    6416   0.31  17920.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735195      0     18200      0.00      0.00   16232    6416   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735196      0     18200      0.00      0.00   16232    6416   0.31  17920.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735197      0     18200      0.00      0.00   16232    6416   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735198      0     18200      0.00      0.00   16232    6416   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735199      0     18200      0.00      0.00   16232    6416   0.31  16420.20      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735200      0     18200      0.00      0.00   16232    6416   0.31  15334.65      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735201      0     18200      0.00      0.00   16232    6416   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735202      0     18200      0.00      0.00   16232    6416   0.31  15385.86      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735203      0     18200      0.00      0.00   16232    6416   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735204      0     18200      0.00      0.00   16232    6416   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735205      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735206      0     18200      0.00      0.00   16232    6368   0.31  15334.65      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735207      0     18200      0.00      0.00   16232    6368   0.31  15773.74      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735208      0     18200      0.00      0.00   16232    6368   0.31  16475.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735209      0     18200      0.00      0.00   16232    6368   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735210      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735211      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735212      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735213      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735214      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735215      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735216      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735217      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735218      0     18200      0.00      0.00   16232    6368   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735219      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735220      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735221      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735222      0     18200      0.00      0.00   16232    6368   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735223      0     18200      0.00      0.00   16232    6368   0.31  16808.08      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735224      0     18200      0.00      0.00   16232    6368   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735225      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735226      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735227      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735228      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735229      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735230      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735231      0     18200      0.00      0.00   16232    6368   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735232      0     18200      0.00      0.00   16232    6368   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735233      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735234      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735235      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735236      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735237      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735238      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735239      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735240      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735241      0     18200      0.00      0.00   16232    6368   0.31  15461.39      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735242      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735243      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735244      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735245      0     18200      0.00      0.00   16232    6368   0.31  16549.49      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735246      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735247      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735248      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735249      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735250      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735251      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735252      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735253      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735254      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735255      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735256      0     18200      0.00      0.00   16232    6368   0.31  15616.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735257      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735258      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735259      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735260      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735261      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735262      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735263      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735264      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735265      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735266      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735267      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735268      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735269      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735270      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735271      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735272      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735273      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735274      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735275      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735276      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735277      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735278      0     18200      0.00      0.00   16232    6368   0.31  18048.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735279      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735280      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735281      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735282      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735283      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735284      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735285      0     18200      0.00      0.00   16232    6368   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735286      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735287      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735288      0     18200      0.00      0.00   16232    6368   0.31  15841.58      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735289      0     18200      0.00      0.00   16232    6368   0.31  15773.74      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735290      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735291      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735292      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735293      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735294      0     18200      0.00      0.00   16232    6368   0.31  17325.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735295      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735296      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735297      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735298      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735299      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735300      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735301      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735302      0     18200      0.00      0.00   16232    6368   0.31  14067.33      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735303      0     18200      0.00      0.00   16232    6368   0.31  15515.15      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735304      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735305      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735306      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735307      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735308      0     18200      0.00      0.00   16232    6368   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735309      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735310      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735311      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735312      0     18200      0.00      0.00   16232    6368   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735313      0     18200      0.00      0.00   16232    6368   0.31  15616.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735314      0     18200      0.00      0.00   16232    6368   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735315      0     18200      0.00      0.00   16232    6368   0.31  16420.20      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735316      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735317      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735318      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735319      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735320      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735321      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735322      0     18200      0.00      0.00   16232    6368   0.31  14980.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735323      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735324      0     18200      0.00      0.00   16232    6368   0.31  16549.49      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735325      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735326      0     18200      0.00      0.00   16232    6368   0.31  15588.12      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735327      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735328      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735329      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735330      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735331      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735332      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735333      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735334      0     18200      0.00      0.00   16232    6368   0.31  17971.72      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735335      0     18200      0.00      0.00   16232    6368   0.31  17489.11      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735336      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735337      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735338      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735339      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735340      0     18200      0.00      0.00   16232    6368   0.31  17713.13      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735341      0     18200      0.00      0.00   16232    6368   0.31  16095.05      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735342      0     18200      0.00      0.00   16232    6368   0.31  16420.20      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735343      0     18200      0.00      0.00   16232    6368   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735344      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735345      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735346      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735347      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735348      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735349      0     18200      0.00      0.00   16232    6368   0.31  16601.98      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735350      0     18200      0.00      0.00   16232    6368   0.31  17066.67      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735351      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735352      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735353      0     18200      0.00      0.00   16232    6368   0.31  16512.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735354      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735355      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735356      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735357      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735358      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735359      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735360      0     18200      0.00      0.00   16232    6368   0.31  15334.65      0.00      0.00       8  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735361      0     18200      0.00      0.00   16232    6368   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735362      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735363      0     18200      0.00      0.00   16232    6368   0.31  16290.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735364      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735365      0     18200      0.00      0.00   16232    6368   0.31  16475.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735366      0     18200      0.00      0.00   16232    6368   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735367      0     18200      0.00      0.00   16232    6368   0.31  15334.65      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735368      0     18200      0.00      0.00   16232    6368   0.31  17583.84      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735369      0     18200      0.00      0.00   16232    6368   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735370      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735371      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735372      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735373      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735374      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735375      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735376      0     18200      0.00      0.00   16232    6368   0.31  17583.84      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735377      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735378      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735379      0     18200      0.00      0.00   16232    6368   0.31  17362.38      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735380      0     18200      0.00      0.00   16232    6368   0.31  16808.08      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735381      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735382      0     18200      0.00      0.00   16232    6368   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735383      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735384      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735385      0     18200      0.00      0.00   16232    6368   0.31  16640.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735386      0     18200      0.00      0.00   16232    6368   0.31  15588.12      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735387      0     18200      0.00      0.00   16232    6368   0.31  16290.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735388      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735389      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735390      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735391      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735392      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735393      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735394      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735395      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735396      0     18200      0.00      0.00   16232    6368   0.31  15104.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735397      0     18200      0.00      0.00   16232    6368   0.31  14976.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735398      0     18200      0.00      0.00   16232    6368   0.31  16475.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735399      0     18200      0.00      0.00   16232    6368   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735400      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735401      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735402      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735403      0     18200      0.00      0.00   16232    6368   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735404      0     18200      0.00      0.00   16232    6368   0.31  15714.85      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735405      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735406      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735407      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735408      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735409      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735410      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       7  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735411      0     18200      0.00      0.00   16232    6368   0.31  12673.27      0.00      0.00      16  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735412      0     18200      0.00      0.00   16232    6368   0.31  12032.00      0.00      0.00      21  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735413      0     18200      0.00      0.00   16232    6368   0.31  15081.19      0.00      0.00       4  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735414      0     18200      0.00      0.00   16232    6368   0.31  15616.00      0.00      0.00       8  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735415      0     18200      0.00      0.00   16232    6368   0.31   4179.59      0.00      0.00      67  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735416      0     18200      0.00      0.00   16232    6368   0.31  13433.66      0.00      0.00      20  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735417      0     18200      0.00      0.00   16232    6368   0.31  15714.85      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735418      0     18200      0.00      0.00   16232    6368   0.31  16032.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735419      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735420      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735421      0     18200      0.00      0.00   16232    6368   0.31  15616.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735422      0     18200      0.00      0.00   16232    6368   0.31  10496.00      0.00      0.00      27  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735423      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735424      0     18200      0.00      0.00   16232    6368   0.31  12282.83      0.00      0.00      20  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735425      0     18200      0.00      0.00   16232    6368   0.31  13952.00      0.00      0.00       7  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735426      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735427      0     18200      0.00      0.00   16232    6368   0.31   4942.57      0.00      0.00      64  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735428      0     18200      0.00      0.00   16232    6368   0.31  12288.00      0.00      0.00      22  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735429      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735430      0     18200      0.00      0.00   16232    6368   0.31  14592.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735431      0     18200      0.00      0.00   16232    6368   0.31  13433.66      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735432      0     18200      0.00      0.00   16232    6368   0.31  13824.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735433      0     18200      0.00      0.00   16232    6368   0.31  14080.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735434      0     18200      0.00      0.00   16232    6368   0.31  14351.52      0.00      0.00       5  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735435      0     18200      0.00      0.00   16232    6368   0.31  13440.00      0.00      0.00      20  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735436      0     18200      0.00      0.00   16232    6368   0.31  15081.19      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735437      0     18200      0.00      0.00   16232    6368   0.31  11904.00      0.00      0.00      25  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735438      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735439      0     18200      0.00      0.00   16232    6368   0.31  11264.00      0.00      0.00      34  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735440      0     18200      0.00      0.00   16232    6368   0.31   6528.00      0.00      0.00      58  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735441      0     18200      0.00      0.00   16232    6368   0.31  13824.00      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735442      0     18200      0.00      0.00   16232    6368   0.31  14574.26      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735443      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735444      0     18200      0.00      0.00   16232    6368   0.31  15127.27      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735445      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735446      0     18200      0.00      0.00   16232    6368   0.31  10472.73      0.00      0.00      27  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735447      0     18200      0.00      0.00   16232    6368   0.31  15773.74      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735448      0     18200      0.00      0.00   16232    6368   0.31  15841.58      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735449      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735450      0     18200      0.00      0.00   16232    6368   0.31  15104.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735451      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       4  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735452      0     18200      0.00      0.00   16232    6368   0.31   6272.00      0.00      0.00      56  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735453      0     18200      0.00      0.00   16232    6368   0.31  15360.00      0.00      0.00       7  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735454      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735455      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735456      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735457      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735458      0     18200      0.00      0.00   16232    6368   0.31  17713.13      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735459      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735460      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735461      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735462      0     18200      0.00      0.00   16232    6368   0.31  16161.62      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735463      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735464      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735465      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735466      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735467      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735468      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735469      0     18200      0.00      0.00   16232    6368   0.31  18176.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735470      0     18200      0.00      0.00   16232    6368   0.31  16601.98      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735471      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735472      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735473      0     18200      0.00      0.00   16232    6368   0.31  16855.45      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735474      0     18200      0.00      0.00   16232    6368   0.31  18101.01      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735475      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735476      0     18200      0.00      0.00   16232    6368   0.31  17235.64      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735477      0     18200      0.00      0.00   16232    6368   0.31  17110.20      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735478      0     18200      0.00      0.00   16232    6368   0.31  16728.71      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735479      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735480      0     18200      0.00      0.00   16232    6368   0.31  17920.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735481      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735482      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735483      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735484      0     18200      0.00      0.00   16232    6368   0.31  17920.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735485      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735486      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735487      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735488      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735489      0     18200      0.00      0.00   16232    6368   0.31  16644.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735490      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735491      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735492      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735493      0     18200      0.00      0.00   16232    6368   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735494      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735495      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735496      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735497      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735498      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735499      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735500      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735501      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735502      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735503      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735504      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735505      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735506      0     18200      0.00      0.00   16232    6368   0.31  15207.92      0.00      0.00       4  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735507      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735508      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735509      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735510      0     18200      0.00      0.00   16232    6368   0.31  17195.96      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735511      0     18200      0.00      0.00   16232    6368   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735512      0     18200      0.00      0.00   16232    6368   0.31  16808.08      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735513      0     18200      0.00      0.00   16232    6368   0.31  16728.71      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735514      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735515      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735516      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735517      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735518      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735519      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735520      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735521      0     18200      0.00      0.00   16232    6368   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735522      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735523      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735524      0     18200      0.00      0.00   16232    6368   0.31  16982.18      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735525      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735526      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735527      0     18200      0.00      0.00   16232    6368   0.31  17792.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735528      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735529      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735530      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735531      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735532      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735533      0     18200      0.00      0.00   16232    6368   0.31  17152.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735534      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735535      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735536      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735537      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735538      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735539      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735540      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735541      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735542      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735543      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735544      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735545      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735546      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735547      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735548      0     18200      0.00      0.00   16232    6368   0.31  17536.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735549      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735550      0     18200      0.00      0.00   16232    6368   0.31  17664.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735551      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735552      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735553      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735554      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735555      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735556      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735557      0     18200      0.00      0.00   16232    6368   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735558      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735559      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735560      0     18200      0.00      0.00   16232    6368   0.31  15256.57      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735561      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735562      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735563      0     18200      0.00      0.00   16232    6368   0.31  16808.08      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735564      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735565      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735566      0     18200      0.00      0.00   16232    6368   0.31  15714.85      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735567      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735568      0     18200      0.00      0.00   16232    6368   0.31  17454.55      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735569      0     18200      0.00      0.00   16232    6368   0.31  17108.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735570      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735571      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735572      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735573      0     18200      0.00      0.00   16232    6368   0.31  17066.67      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735574      0     18200      0.00      0.00   16232    6368   0.31  15616.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735575      0     18200      0.00      0.00   16232    6368   0.31  16095.05      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735576      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735577      0     18200      0.00      0.00   16232    6368   0.31  15903.03      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735578      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735579      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735580      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735581      0     18200      0.00      0.00   16232    6368   0.31  17408.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735582      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735583      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735584      0     18200      0.00      0.00   16232    6368   0.31  16768.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735585      0     18200      0.00      0.00   16232    6368   0.31  16420.20      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735586      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735587      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735588      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735589      0     18200      0.00      0.00   16232    6368   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735590      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735591      0     18200      0.00      0.00   16232    6368   0.31  16640.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735592      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735593      0     18200      0.00      0.00   16232    6368   0.31  15385.86      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735594      0     18200      0.00      0.00   16232    6368   0.31  16601.98      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735595      0     18200      0.00      0.00   16232    6368   0.31  15360.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735596      0     18200      0.00      0.00   16232    6368   0.31  16290.91      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735597      0     18200      0.00      0.00   16232    6368   0.31  16348.51      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735598      0     18200      0.00      0.00   16232    6368   0.31  17325.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735599      0     18200      0.00      0.00   16232    6368   0.31  16896.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735600      0     18200      0.00      0.00   16232    6368   0.31  16512.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735601      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735602      0     18200      0.00      0.00   16232    6368   0.31  11264.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735603      0     18200      0.00      0.00   16232    6368   0.31  10624.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735604      0     18200      0.00      0.00   16232    6368   0.31  14092.93      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735605      0     18200      0.00      0.00   16232    6368   0.31  14592.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735606      0     18200      0.00      0.00   16232    6368   0.31  14194.06      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735607      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735608      0     18200      0.00      0.00   16232    6368   0.31  14592.00      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735609      0     18200      0.00      0.00   16232    6368   0.31  14336.00      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735610      0     18200      0.00      0.00   16232    6368   0.31  14868.69      0.00      0.00       3  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735611      0     18200      0.00      0.00   16232    6368   0.31  15588.12      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735612      0     18200      0.00      0.00   16232    6368   0.31  14868.69      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735613      0     18200      0.00      0.00   16232    6368   0.31  13813.86      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735614      0     18200      0.00      0.00   16232    6368   0.31  15385.86      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735615      0     18200      0.00      0.00   16232    6368   0.31  15968.32      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735616      0     18200      0.00      0.00   16232    6368   0.31  15127.27      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735617      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735618      0     18200      0.00      0.00   16232    6368   0.31  16384.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735619      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735620      0     18200      0.00      0.00   16232    6368   0.31  15644.44      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735621      0     18200      0.00      0.00   16232    6368   0.31  14700.99      0.00      0.00       1  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735622      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735623      0     18200      0.00      0.00   16232    6368   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735624      0     18200      0.00      0.00   16232    6368   0.31  14848.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735625      0     18200      0.00      0.00   16232    6368   0.31  16000.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735626      0     18200      0.00      0.00   16232    6368   0.31  15232.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735627      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735628      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735629      0     18200      0.00      0.00   16232    6368   0.31  18304.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735630      0     18200      0.00      0.00   16232    6368   0.31  15773.74      0.00      0.00       2  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735631      0     18200      0.00      0.00   16232    6368   0.31  15488.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735632      0     18200      0.00      0.00   16232    6368   0.31  14574.26      0.00      0.00       6  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735633      0     18200      0.00      0.00   16232    6368   0.31  16128.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735634      0     18200      0.00      0.00   16232    6368   0.31  16937.37      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735635      0     18200      0.00      0.00   16232    6368   0.31  16601.98      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735636      0     18200      0.00      0.00   16232    6368   0.31  16132.00      4.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735637      0     18200      0.00      0.00   16232    6368   0.31  15744.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735638      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735639      0     18200      0.00      0.00   16232    6368   0.31  17152.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735640      0     18200      0.00      0.00   16232    6368   0.31  17325.25      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735641      0     18200      0.00      0.00   16232    6368   0.31  16221.78      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735642      0     18200      0.00      0.00   16232    6368   0.31  16678.79      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735643      0     18200      0.00      0.00   16232    6368   0.31  15334.65      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735644      0     18200      0.00      0.00   16232    6368   0.31  17024.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735645      0     18200      0.00      0.00   16232    6368   0.31  16256.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735646      0     18200      0.00      0.00   16232    6368   0.31  15872.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735647      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563735648      0     18200      0.00      0.00   16232    6368   0.31  17280.00      0.00      0.00       0  monpoly
