@@ -1,0 +1,2113 @@
+Linux 4.15.0-51-generic (ubuntu-OM) 	07/23/19 	_x86_64_	(1 CPU)
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879446      0      9139     44.55      0.00   13312    3092   0.15      3.96      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879447      0      9139     36.27      0.00   13312    3116   0.15   3733.33     70.59      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879448      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879449      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879450      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879451      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879452      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879453      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879454      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879455      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879456      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879457      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879458      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879459      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879460      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879461      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879462      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879463      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879464      0      9139     74.00      0.00   13312    3116   0.15   4200.00    424.00     16.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879465      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879466      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879467      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879468      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879469      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879470      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879471      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879472      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879473      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879474      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879475      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879476      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879477      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879478      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879479      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879480      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879481      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879482      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879483      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879484      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879485      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879486      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879487      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879488      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879489      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879490      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879491      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879492      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879493      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879494      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879495      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879496      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879497      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879498      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879499      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879500      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879501      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879502      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879503      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879504      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879505      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879506      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879507      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879508      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879509      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879510      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879511      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879512      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879513      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879514      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879515      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879516      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879517      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879518      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879519      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879520      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879521      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879522      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879523      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879524      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879525      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879526      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879527      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879528      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879529      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879530      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879531      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879532      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879533      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879534      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879535      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879536      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879537      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879538      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879539      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879540      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879541      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879542      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879543      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879544      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879545      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879546      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879547      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879548      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879549      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879550      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879551      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879552      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879553      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879554      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879555      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879556      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879557      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879558      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879559      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879560      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879561      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879562      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879563      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879564      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879565      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879566      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879567      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879568      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879569      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879570      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879571      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879572      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879573      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879574      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879575      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879576      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879577      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879578      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879579      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879580      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879581      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879582      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879583      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879584      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879585      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879586      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879587      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879588      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879589      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879590      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879591      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879592      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879593      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879594      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879595      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879596      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879597      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879598      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879599      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879600      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879601      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879602      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879603      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879604      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879605      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879606      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879607      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879608      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879609      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879610      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879611      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879612      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879613      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879614      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879615      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879616      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879617      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879618      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879619      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879620      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879621      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879622      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879623      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879624      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879625      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879626      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879627      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879628      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879629      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879630      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879631      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879632      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879633      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879634      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879635      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879636      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879637      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879638      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879639      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879640      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879641      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879642      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879643      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879644      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879645      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879646      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879647      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879648      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879649      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879650      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879651      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879652      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879653      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879654      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879655      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879656      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879657      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879658      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879659      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879660      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879661      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879662      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879663      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879664      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879665      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879666      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879667      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879668      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879669      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879670      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879671      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879672      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879673      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879674      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879675      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879676      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879677      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879678      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879679      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879680      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879681      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879682      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879683      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879684      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879685      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879686      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879687      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879688      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879689      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879690      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879691      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879692      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879693      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879694      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879695      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879696      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879697      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879698      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879699      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879700      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879701      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879702      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879703      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879704      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879705      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879706      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879707      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879708      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879709      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879710      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879711      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879712      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879713      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879714      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879715      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879716      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879717      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879718      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879719      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879720      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879721      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879722      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879723      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879724      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879725      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879726      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879727      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879728      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879729      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879730      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879731      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879732      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879733      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879734      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879735      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879736      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879737      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879738      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879739      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879740      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879741      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879742      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879743      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879744      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879745      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879746      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879747      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879748      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879749      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879750      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879751      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879752      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879753      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879754      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879755      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879756      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879757      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879758      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879759      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879760      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879761      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879762      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879763      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879764      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879765      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879766      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879767      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879768      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879769      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879770      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879771      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879772      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879773      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879774      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879775      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879776      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879777      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879778      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879779      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879780      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879781      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879782      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879783      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879784      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879785      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879786      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879787      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879788      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879789      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879790      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879791      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879792      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879793      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879794      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879795      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879796      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879797      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879798      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879799      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879800      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879801      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879802      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879803      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879804      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879805      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879806      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879807      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879808      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879809      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879810      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879811      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879812      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879813      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879814      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879815      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879816      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879817      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879818      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879819      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879820      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879821      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879822      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879823      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879824      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879825      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879826      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879827      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879828      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879829      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879830      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879831      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879832      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879833      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879834      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879835      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879836      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879837      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879838      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879839      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879840      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879841      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879842      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879843      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879844      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879845      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879846      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879847      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879848      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879849      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879850      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879851      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879852      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879853      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879854      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879855      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879856      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879857      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879858      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879859      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879860      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879861      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879862      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879863      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879864      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879865      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879866      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879867      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879868      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879869      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879870      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879871      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879872      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879873      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879874      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879875      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879876      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879877      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879878      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879879      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879880      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879881      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879882      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879883      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879884      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879885      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879886      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879887      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879888      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879889      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879890      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879891      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879892      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879893      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879894      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879895      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879896      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879897      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879898      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879899      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879900      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879901      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879902      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879903      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879904      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879905      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879906      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879907      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879908      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879909      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879910      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879911      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879912      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879913      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879914      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879915      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879916      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879917      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879918      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879919      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879920      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879921      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879922      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879923      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879924      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879925      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879926      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879927      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879928      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879929      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879930      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879931      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879932      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879933      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879934      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879935      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879936      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879937      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879938      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879939      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879940      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879941      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879942      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879943      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879944      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879945      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879946      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879947      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879948      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879949      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879950      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879951      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879952      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879953      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879954      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879955      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879956      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879957      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879958      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879959      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879960      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879961      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879962      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879963      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879964      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879965      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879966      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879967      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879968      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879969      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879970      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879971      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879972      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879973      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879974      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879975      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879976      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879977      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879978      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879979      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879980      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879981      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879982      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879983      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879984      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879985      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879986      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879987      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879988      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879989      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879990      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879991      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879992      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879993      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879994      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879995      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879996      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879997      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879998      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563879999      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880000      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880001      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880002      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880003      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880004      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880005      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880006      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880007      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880008      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880009      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880010      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880011      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880012      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880013      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880014      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880015      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880016      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880017      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880018      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880019      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880020      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880021      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880022      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880023      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880024      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880025      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880026      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880027      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880028      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880029      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880030      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880031      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880032      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880033      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880034      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880035      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880036      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880037      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880038      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880039      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880040      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880041      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880042      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880043      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880044      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880045      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880046      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880047      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880048      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880049      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880050      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880051      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880052      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880053      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880054      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880055      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880056      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880057      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880058      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880059      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880060      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880061      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880062      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880063      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880064      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880065      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880066      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880067      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880068      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880069      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880070      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880071      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880072      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880073      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880074      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880075      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880076      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880077      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880078      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880079      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880080      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880081      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880082      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880083      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880084      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880085      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880086      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880087      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880088      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880089      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880090      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880091      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880092      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880093      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880094      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880095      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880096      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880097      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880098      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880099      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880100      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880101      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880102      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880103      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880104      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880105      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880106      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880107      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880108      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880109      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880110      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880111      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880112      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880113      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880114      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880115      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880116      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880117      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880118      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880119      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880120      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880121      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880122      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880123      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880124      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880125      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880126      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880127      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880128      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880129      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880130      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880131      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880132      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880133      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880134      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880135      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880136      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880137      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880138      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880139      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880140      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880141      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880142      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880143      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880144      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880145      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880146      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880147      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880148      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
+
+# Time        UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+1563880149      0      9139      0.00      0.00   13312    3116   0.15      0.00      0.00      0.00       0  dejavu
