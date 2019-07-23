@@ -1,10 +1,10 @@
 
-BDD bits per variable = 6
+BDD bits per variable = 4
 
 ----------------
 +++ warning +++:  unused events: script_end,commit,insert,script_svn,script_start,select,script_md5,update
 
---- Elapsed monitor synthesis time: 0.596s
+--- Elapsed monitor synthesis time: 0.611s
 
 
 
