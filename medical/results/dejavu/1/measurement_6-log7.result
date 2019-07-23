@@ -1,0 +1,16 @@
+
+BDD bits per variable = 6
+
+----------------
++++ warning +++:  unused events: patient_id,patient
+
+--- Elapsed monitor synthesis time: 0.635s
+
+
+
+Compiling synthesized monitor: ...
+
+Verifying trace: ...
+
+*** java.lang.AssertionError: assertion failed: Out of memory for variable p_id!
+
