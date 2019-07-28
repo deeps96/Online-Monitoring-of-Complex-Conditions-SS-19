@@ -9,4 +9,4 @@ pred
   action_type(a_id, type),
   dental_on(d_id, pat_id)
 
-prop before: Forall pat_id . Exists d_id . (dental_on(d_id, pat_id) & P dental(d_id)) -> Exists p_id . Exists a_id . (P pump_on(p_id, pat_id) & P action_by(a_id, p_id) & P action_type(a_id, "antibiotics"))
+prop before: Forall pat_id . Forall d_id . (dental_on(d_id, pat_id) & P dental(d_id)) -> Exists p_id . Exists a_id . (P pump_on(p_id, pat_id) & P action_by(a_id, p_id) & P action_type(a_id, "antibiotics"))
